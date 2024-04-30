@@ -1,4 +1,6 @@
 # Exp No-2c.SIMULATING ARP /RARP PROTOCOLS
+### Name: LOKNAATH P
+### Register Number: 212223240080
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
